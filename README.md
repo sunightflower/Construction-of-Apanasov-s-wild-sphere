@@ -6,3 +6,6 @@ This model reconstructs the front projection in Figure 5 from the drawing. It sh
 
 https://github.com/user-attachments/assets/8164256f-8b31-4133-a686-c143def8a253
 
+![Reference drawing](attachment:reference.png)
+
+*Figure 5. Wild ball covering of a hyperbolic 4-cobordism boundary.*
