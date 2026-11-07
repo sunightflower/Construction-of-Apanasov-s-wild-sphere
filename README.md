@@ -5,7 +5,3 @@ This model reconstructs the front projection in Figure 5 from the drawing. It sh
 [B. N. Apanasov, *Group actions, Teichmüller spaces and cobordisms*](https://arxiv.org/pdf/1611.00432)
 
 https://github.com/user-attachments/assets/8164256f-8b31-4133-a686-c143def8a253
-
-![Reference drawing](attachment:reference.png)
-
-*Figure 5. Wild ball covering of a hyperbolic 4-cobordism boundary.*
